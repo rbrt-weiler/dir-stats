@@ -41,6 +41,8 @@ Set the minimum number of bytes that triggers reporting of a directory. The defa
 * -s STYLE, --style=STYLE  
 Define the style of the output. Accepted values are "win" and "unix". The default value is "win".
 
+"filenames" is a list of one or more INI files that shall be summarized.
+
 ### dir-stats-ini2html.py
 
 `./dir-stats-ini2html.py [options] <inifiles ...>`
