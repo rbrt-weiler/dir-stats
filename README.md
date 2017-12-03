@@ -105,6 +105,10 @@ Highlight the word "media" (case-insensitive) within the HTML file. Redirect the
 
 `./dir-stats-htmlmarker.py -w media backup-stats-summary.ini.html >backup-stats-summary-highlighted.html`
 
+## Source
+
+The main repository for dir-stats is located at GitLab: [https://gitlab.com/rbrt-weiler/dir-stats](https://gitlab.com/rbrt-weiler/dir-stats)
+
 ## License
 
 dir-stats is released under the Zlib License.
