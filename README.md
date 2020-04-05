@@ -116,4 +116,3 @@ dir-stats is released under the Zlib License.
 ## Copyright
 
 dir-stats is (c) 2007-2017 Robert Weiler.
-
